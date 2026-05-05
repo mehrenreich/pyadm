@@ -1,7 +1,0 @@
-# Enter requirements
-click
-ldap3
-elasticsearch
-opensearch-py
-tabulate
-proxmoxer
